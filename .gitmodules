@@ -1,0 +1,3 @@
+[submodule "FaceDetectionApi"]
+	path = FaceDetectionApi
+	url = https://github.com/andre-carbajal/FaceDetectionApi.git

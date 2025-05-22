@@ -7,4 +7,8 @@
 
    ```sh
    git clone https://github.com/andre-carbajal/Programming_II_Project.git --recursive
+<<<<<<< HEAD
    ```
+=======
+   ```
+>>>>>>> b9e1f52cbb88b97d2788eb4482efe47ae649a8e4

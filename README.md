@@ -7,8 +7,14 @@
 
    ```sh
    git clone https://github.com/andre-carbajal/Programming_II_Project.git --recursive
-<<<<<<< HEAD
    ```
-=======
+
+## How to Obtain the Latest Changes
+
+1. Open a terminal and navigate to your local repository folder.
+2. Run the following command to pull the latest changes and update submodules:
+
+   ```sh
+   git pull --recurse-submodules
+   git submodule update --init --recursive
    ```
->>>>>>> b9e1f52cbb88b97d2788eb4482efe47ae649a8e4

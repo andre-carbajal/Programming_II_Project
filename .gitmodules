@@ -1,3 +1,6 @@
 [submodule "FaceDetectionApi"]
 	path = FaceDetectionApi
 	url = https://github.com/andre-carbajal/FaceDetectionApi.git
+[submodule "MarcadorDeAsistencia"]
+	path = MarcadorDeAsistencia
+	url = https://github.com/andre-carbajal/MarcadorDeAsistencia.git
